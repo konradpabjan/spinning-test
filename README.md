@@ -1,1 +1,3 @@
 # spinning-test
+
+test
